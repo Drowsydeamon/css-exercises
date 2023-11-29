@@ -1,0 +1,18 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+.red {
+    background-color: #f3a3a6;
+}
+.red.angry {
+    font-size: 24px;
+}
+#bumstick {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#Thomas_Jefferson {
+    background-color: rgb(122, 240, 122);
+    font-weight: bold;
+}
